@@ -42,7 +42,7 @@
         $third->add_grade(100);
         $third->add_grade(100);
         $third->add_status('status','Senior');
-        $students['b789'] = $third;
+        $students['c963'] = $third;
         
         
           $fourth = new Student();
